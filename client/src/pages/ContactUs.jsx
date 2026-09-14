@@ -24,7 +24,7 @@ export default function ContactUs() {
 
           <div className="contact-info">
             <div className="info-row">
-              <span className="info-label">Mail IDs</span>
+              <span className="info-label">Mail ID</span>
               <span className="info-value">: contact@vegothomsonindia.in</span>
             </div>
             <div className="info-row">
